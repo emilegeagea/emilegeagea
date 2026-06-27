@@ -30,7 +30,7 @@ A deep learning automatic music transcription system that converts piano audio i
 
 ## 🌱 Current Focus
 
-- Advanced Python for data analysis
+- Advanced Python
 - Advanced SQL
 - Machine Learning
 - End-to-end data analytics projects
