@@ -28,15 +28,6 @@ A deep learning automatic music transcription system that converts piano audio i
 
 ---
 
-## 🌱 Current Focus
-
-- Advanced Python
-- Advanced SQL
-- Machine Learning
-- End-to-end data analytics projects
-
----
-
 ## 📫 Connect with Me
 
 💼 LinkedIn: https://linkedin.com/in/emilegeagea
