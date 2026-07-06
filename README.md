@@ -1,9 +1,8 @@
 # Hi, I'm Emile Geagea 👋
 
-I'm an analytical professional transitioning into **Data Analytics** and **Data Science**, with an engineering background and experience spanning investment analysis, operations, and B2B sales.
+I'm an analytical professional with an engineering background and experience spanning investment analysis, operations, and B2B sales, seeking **Data Analyst** opportunities after completing Le Wagon's internationally recognized Data Science & AI bootcamp.
 
-I recently completed Le Wagon's internationally recognized Data Science & AI bootcamp, where I developed practical skills in Python, SQL, data analysis, machine learning, and deep learning through hands-on projects.
-I enjoy using data to solve real-world problems and transform complex information into actionable insights.
+Through hands-on projects, I've developed practical skills in Python, SQL, Data Analysis, Machine Learning, and Deep Learning, while strengthening my ability to analyze data and communicate insights in a business context.
 
 ---
 
@@ -22,7 +21,7 @@ I enjoy using data to solve real-world problems and transform complex informatio
 ## 🚀 Featured Projects
 
 ### 🎼 Sheetify
-A deep learning automatic music transcription system that converts piano audio into MIDI and sheet music using TensorFlow/Keras, based on the *Onsets and Frames* architecture.
+A deep learning automatic music transcription system that converts piano audio into MIDI and sheet music using **TensorFlow/Keras**, based on the *Onsets and Frames* architecture and trained on Google's **MAESTRO** dataset.
 
 > 🔗 Repository: https://github.com/emilegeagea/sheetify
 
