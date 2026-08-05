@@ -1,8 +1,8 @@
 # Hi, I'm Emile Geagea 👋
 
-I'm an analytical professional with an engineering background and experience spanning investment analysis, operations, and B2B sales, seeking **Data Analyst** opportunities after completing Le Wagon's internationally recognized Data Science & AI bootcamp.
+I'm a trilingual business professional with an engineering background and experience spanning B2B sales, client relationship management, and operations. After completing Le Wagon's internationally recognized Data Science & AI bootcamp, I developed practical skills in Python, SQL, data analysis, data visualization, machine learning, and deep learning through hands-on projects.
 
-Through hands-on projects, I've developed practical skills in Python, SQL, Data Analysis, Machine Learning, and Deep Learning, while strengthening my ability to analyze data and communicate insights in a business context.
+I'm passionate about working at the intersection of business and technology, helping customers solve complex challenges by combining strong communication, relationship-building, and technical knowledge. I'm currently seeking Sales Engineer, Solutions Engineer, or other technical customer-facing opportunities in the technology, data, and AI sectors.
 
 ---
 
@@ -10,7 +10,7 @@ Through hands-on projects, I've developed practical skills in Python, SQL, Data 
 
 **Programming:** Python, SQL
 
-**Data Analysis:** Pandas, NumPy, Matplotlib, Seaborn, SciPy, Statsmodels, BigQuery
+**Data Analysis & Visualization:** Pandas, NumPy, Matplotlib, Seaborn, SciPy, Statsmodels, BigQuery
 
 **Machine Learning:** Scikit-Learn, TensorFlow, Keras
 
@@ -25,7 +25,15 @@ A deep learning automatic music transcription system that converts piano audio i
 
 > 🔗 Repository: https://github.com/emilegeagea/sheetify
 
+### 📊 Olist E-Commerce Profitability Analysis
+
+An end-to-end data analysis project evaluating the profitability of **Olist**, a Brazilian e-commerce marketplace. Using **Python**, **Pandas**, **NumPy**, **Matplotlib**, **Seaborn**, and **SQL**, I cleaned, merged, and analyzed datasets containing orders, customers, sellers, products, payments, and reviews to uncover business insights and identify opportunities to increase profitability.
+
+> 🔗 Repository: https://github.com/emilegeagea/olist-project
+
 ---
+
+I'm always open to connecting with professionals, recruiters, and fellow technology enthusiasts.
 
 ## 📫 Connect with Me
 
