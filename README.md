@@ -21,7 +21,7 @@ I'm passionate about working at the intersection of business and technology, hel
 ## 🚀 Featured Projects
 
 ### 🎼 Sheetify
-A deep learning automatic music transcription system that converts piano audio into MIDI and sheet music using **TensorFlow/Keras**, based on the *Onsets and Frames* architecture and trained on Google's **MAESTRO** dataset.
+An end-to-end deep learning project for automatic music transcription that converts piano audio into MIDI and sheet music. Built using **Python**, **Pandas**, **NumPy**, **Librosa**, and **TensorFlow/Keras**, based on the *Onsets and Frames* architecture, and trained on Google's **MAESTRO** dataset.
 
 > 🔗 Repository: https://github.com/emilegeagea/sheetify
 
