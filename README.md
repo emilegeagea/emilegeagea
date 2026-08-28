@@ -12,11 +12,11 @@ I'm currently seeking customer-facing opportunities in the technology, data, and
 
 **Programming:** Python, SQL
 
-**Data Analysis & Visualization:** Pandas, NumPy, Matplotlib, Seaborn, SciPy, Statsmodels, BigQuery
+**Data Analysis & Visualization:** Pandas, NumPy, Matplotlib, Seaborn, SciPy, Statsmodels
 
 **Machine Learning:** Scikit-Learn, TensorFlow, Keras
 
-**Platforms & Tools:** Git, GitHub, Microsoft Excel, SAP ERP, Infor M3, S&P Capital IQ, AlphaSense, HubSpot
+**Platforms & Tools:** HubSpot, BigQuery, Git, GitHub, Microsoft Excel, SAP ERP, Infor M3, S&P Capital IQ
 
 ---
 
