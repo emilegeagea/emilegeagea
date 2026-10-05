@@ -1,6 +1,6 @@
 # Hi, I'm Emile Geagea 👋
 
-I'm a trilingual business professional with an engineering background and experience spanning B2B sales, business development, account management, and operations. After completing Le Wagon's internationally recognized Data Science & AI bootcamp, I developed practical skills in Python, SQL, data analysis, data visualization, machine learning, and deep learning through hands-on projects.
+I'm a trilingual business professional with an engineering background and experience spanning B2B sales, business development, account management, and operations. After completing Le Wagon's internationally recognized Data Science & AI bootcamp, I developed practical skills in AI, Python, SQL, data analysis, data visualization, and machine learning through hands-on projects.
 
 I enjoy working at the intersection of technology and business, combining strong communication, relationship-building, and technical knowledge to understand customer needs and deliver meaningful business outcomes.
 
